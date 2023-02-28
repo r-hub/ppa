@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: R-hub
+Label: R-hub
+Suite: jammy
+Codename: jammy
+Version: 1.0.0
+Architectures: amd64 arm64
+Components: main
+Description: Packages for R-hub's containers
+Date: Tue, 27 Jun 2023 09:38:30 +0000
+MD5Sum:
+ 15a7d8d8017cb57ca771a3ec59062b29 866 Release.gpg
+ f0ffcda61c30f317b7576616a596a8a9 2473 InRelease
+ 534907365061e15fadb7e762db8d7bca 433 main/binary-arm64/Packages.gz
+ 18a8850cc02f626ce974f5616a3583b5 616 main/binary-arm64/Packages
+ 97b698e22ba5fe98f708c8f70e50223d 737 main/binary-amd64/Packages.gz
+ 32f6f8095ca534a42f48202d3c91273e 1682 main/binary-amd64/Packages
+SHA1:
+ e9a952c2465a484bfbda7f7b9a556c62679c803c 866 Release.gpg
+ 6b0fde2de813408b4739aaf16185e34255cce4fd 2473 InRelease
+ 6b16938804b379c4474bb9ec34ea5d083ff5e52a 433 main/binary-arm64/Packages.gz
+ 0b34d2f684a563b7b4675e8edfe6ea822958a499 616 main/binary-arm64/Packages
+ 2b03cd0bc8d4a0acde8a6f8304f1362ad689f2e4 737 main/binary-amd64/Packages.gz
+ cffec9ce275139eafe11af197877fcd6a9867ded 1682 main/binary-amd64/Packages
+SHA256:
+ 0e1db632c851058b70aa9889806b8bfbcbefef52dd766e7752ef19867ed4f459 866 Release.gpg
+ 38c7e4628b9081b40e13ae61f3935259f5b349d3f9399dbc821361993ef42281 2473 InRelease
+ f347dbd8fb2d0e5c1220a68ded49a804a98e2269dc457193549e72aef32ebaaf 433 main/binary-arm64/Packages.gz
+ b8414af4d798882abb055dafb513fbe73c87880fd58aa7df17e889a45aff726d 616 main/binary-arm64/Packages
+ 1dffd8bb7102eaaebd4197d47f2dc5643763bb71f1769a802ebfc1895b45021d 737 main/binary-amd64/Packages.gz
+ d1df83df0c2bcb59732c9dea7a5f516f0ba0f12035aea52a3212b86c51a0ac0e 1682 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmSarpsXHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdxLCg//Tw8rq3sQKqaliNZEld32umQb
+6HkTbkCYrdlWifn5MfrTdz95OFQ8zp+hg5bXJL23KDpEzRp38iLF9iIv5hUVvMup
+rUcJhu/Cg+u4hlkvGDNe2XVyC2fjbnlBSKmrEzCcUnnF05lLq7Gf//2/oQ2P0zp5
+wej+mzusNdfOiM1q2SaH+Z/WQV7+IdL+tY8e2kRfncw1oqB9e4zgMUqGBO+cps0u
+PCNfWLPZWKhyY3QFxKSp3H0BNRWNKp6cEsPrcpqb0ARrbwsce9sP1DuiT9bCUZH3
+mSYLuJQyQEunCdDB1ahVugR/ZMOZAnL5jzmbtkZtcl5JRfSg078zXG3BxD9g9LcN
+MibA6KXZXgf3VuNfLtTGhXADQ/s4LG2ec9fg0XRqe2MpzXidFwPQ3amyMT6Tba/5
+t54x2xrIxi7EAbYxMCxH/2OSq/2SirNzrw9id5aihpPN2ZsZEcktQQsmtFafEX3P
+iqIUzZNprEX3pKDNvcdR3CFWOWK6Da3GrQDytgLSdEHBXTtjY4IdU7VPUzHYyqpt
+v0s2JzwvC/dm6/8hTAT0Y++QMUyMtNR0+WgWM4ikWZs9+FJ2VBoB9C8PYmmryN+Z
+8KfW2rtgaPqmKxJaLNJmB8Djyxvx1T59ywGTy+LmziOaKDL7np76BzxJ03lbsuVN
+HRVlvR7X0fMAR8i3Y2k=
+=ByyS
+-----END PGP SIGNATURE-----

@@ -1,0 +1,21 @@
+Origin: R-hub
+Label: R-hub
+Suite: sarge
+Codename: sarge
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Sat, 12 Aug 2023 14:50:53 +0000
+MD5Sum:
+ fb737e65c6b9b649218f934beec2f1ea 571 sarge-release.sh
+ f4bb5825bfb7d1d33ca0111ae7e3f15a 25671 main/binary-i386/Packages
+ d1cefa7995d8f9b2f138aef5d440f2a4 5722 main/binary-i386/Packages.gz
+SHA1:
+ dfcf3181c84b1ca0e5800233fac6501030ba9a94 571 sarge-release.sh
+ c25dd93acd31ff582cd6132d0b9d35c13dafef16 25671 main/binary-i386/Packages
+ 74f3e5bb101b854140849062ffa8053a412fbdcb 5722 main/binary-i386/Packages.gz
+SHA256:
+ a852075b00a7b25cf964741b054804505bc61a559021d0012a3c50dad61b2870 571 sarge-release.sh
+ 6d96efff776717323ebb9d4cdad6c70524ee9de3228c4d5d2bb4387bc5a64962 25671 main/binary-i386/Packages
+ 8fc71d862704025a784e35822bdce513ebb9f4c801a297c62a8f4ff8fac12642 5722 main/binary-i386/Packages.gz

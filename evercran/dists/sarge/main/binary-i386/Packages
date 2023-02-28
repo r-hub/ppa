@@ -1,0 +1,735 @@
+Package: r-0.49
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 13024
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.49_1-1_i386.deb
+Size: 2201642
+MD5sum: 0c5dc16740161b8311e99c4c466ae9bd
+SHA1: bb9d8c2ec500cdd3a40cefac1f7cb908b1683957
+SHA256: 0909bf1ca4cef5f535c56428553e9e5d9996a017a33e3bd802e0b64d52d288dc
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.50-a1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 13896
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.50-a1_1-1_i386.deb
+Size: 2418154
+MD5sum: 3fc45e139a8869bd22323ab93c4f1b73
+SHA1: e8f8170f0e8a4093ea15cf253b37fb63880f6b5e
+SHA256: c991f923b6d66c7442c1881150b2b5ed0c11e68ddf8f46c6e792f3b89f0c57e2
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.50-a4
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 11752
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.50-a4_1-1_i386.deb
+Size: 2267708
+MD5sum: 118dbba0bf1620604d0032660d9333b6
+SHA1: a3b620536c639ce7a03add847246355fe5a09527
+SHA256: a3b73553518a46c4aea1bd71fd6c6cfb67551a844797e885c57c409b964d2c90
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.60
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18212
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.60_1-1_i386.deb
+Size: 3090140
+MD5sum: d7e95708a939bb9c932e71e78c481560
+SHA1: b04bfb06aa2aa9424a33859daa63b69c017ef38a
+SHA256: bd9c03614876eba725cbcbadb78d2fa65b863f49ac498d955ad0eca44dcedb2f
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.60.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18244
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.60.1_1-1_i386.deb
+Size: 3092872
+MD5sum: 85574e861e1957e308386b18382c7da4
+SHA1: 4ef512f5d28aee3e6dba959e4e7e01f3e37adff4
+SHA256: 5425b228c2239b1aa6817d69db7ab0ab446a314ceca4bf3f230d6f339c92c857
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.61
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18496
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.61_1-1_i386.deb
+Size: 3153050
+MD5sum: f68fcb7ec4644be7b90c851620010378
+SHA1: 2c00c59bae043019ae4e60ddad9a724ca5752a81
+SHA256: 9222954977cfc36aeb022e29a8981d6d6523b7311a37ff353b20efb7595e5531
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.61.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18504
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.61.1_1-1_i386.deb
+Size: 3158334
+MD5sum: 4e600cafe3c96ff2b6fa7e9cce409986
+SHA1: 3aa664962689cf45322b62fcb609ffd7930439b8
+SHA256: 5e0bed0b96da1bfd757895ed9a6fa2410a6daa0aaf8b64a646ebcae2c85c7dc0
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.61.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18468
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.61.2_1-1_i386.deb
+Size: 3156758
+MD5sum: 070c04593c861d775a426b4e75074f10
+SHA1: 5ffd1530eb3c0c4cb0c7cb1ce5b070f046f78cd7
+SHA256: 9663116840f2bd4227b0f3fb9a7d95616a628422856f2ae24103b4efc6661e5d
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.61.3
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18456
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.61.3_1-1_i386.deb
+Size: 3156646
+MD5sum: dd90831633c3ad425061ba7d19de2394
+SHA1: 6dfe973f6f1aa25318d42be594934cc26770fb79
+SHA256: 88cff5b38d5a014e1cd860b3687bb9417d2aa4fd6a3956dbcf2cea482b74214d
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-0.62
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 8308
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.62_1-1_i386.deb
+Size: 1345078
+MD5sum: 126121f8407a75dd11384b6e3dc52f9f
+SHA1: bd581dd35d6b3b3e3b8fac4be6a7878d720f8497
+SHA256: aaaf4b7a3a28c28d9b67b7e1cee84d65dfb15b32f2fd24791f6a8a116eeaf4a2
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.62.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 8308
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.62.1_1-1_i386.deb
+Size: 1345182
+MD5sum: a4118072332ea4860fcd6306417d19dc
+SHA1: 86b403a4d9e500b243390e1570eb7624429c4679
+SHA256: 43d27a907585a651e46acb2a604a599fd2b948564e119c1ef0174a37d3f8a1ed
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.62.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 8472
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.62.2_1-1_i386.deb
+Size: 1380540
+MD5sum: aeace322c9538b8de604aaf5a5066528
+SHA1: 9d0bf4dc1cf2e586f113f0eef43461651f9f6576
+SHA256: 1c0f263f767704ebb70b77d1e982d8edad821e461cca04cc7848a7be16248702
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.62.3
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 8816
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.62.3_1-1_i386.deb
+Size: 1410208
+MD5sum: 189d533ec0759e7016fdc2473503f17f
+SHA1: 574df5b5a7a8d94985238a01cf57335213ea28f2
+SHA256: abaf8b62c1a8dcebf8a2fdfd89bda69c308bb41d8c09ab8b90067cff601919e8
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.62.4
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 8816
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.62.4_1-1_i386.deb
+Size: 1411124
+MD5sum: 92faf70bc9d61691afea542820ad07b2
+SHA1: de3cb7f373f8a676b4f48c5977d2457927f1fd47
+SHA256: a0a04a462003023caeedca1853cb1aa197e07b82463dca8a90a8d2f2aa24804a
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.63
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 11900
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.63_1-1_i386.deb
+Size: 1768244
+MD5sum: cd1844ccb3109ba751fe0d60047a12df
+SHA1: fb631b3facc4c909cf648665b50b72b86cd49470
+SHA256: b67006091b863022c8cb7fc7a1eddd8b433fd6ff4a97fd27ad32dfc1478f0231
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.63.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12044
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.63.1_1-1_i386.deb
+Size: 1804576
+MD5sum: b35489d13119ae0942762730a2af06ce
+SHA1: 56a9c17d70a7f4643c54eaaa8e6d54ede0cbe422
+SHA256: c289d50efec1c403482183e17d6a87b2499e9eabc09e3bd9b3d5c3147f94483f
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.63.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12312
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.63.2_1-1_i386.deb
+Size: 1849846
+MD5sum: 2d4cfa70a6559e81ad8e910758cd2307
+SHA1: 28bcdb92d3d34d99e1aec245bc679b4f1caca7ba
+SHA256: f69e0be61e33e843912504b6a1ec4b712ab8b5ff7d9d0f01860254884f01bef7
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.63.3
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12316
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
+Filename: pool/main/r-evercran-debian-3.1-0.63.3_1-1_i386.deb
+Size: 1908534
+MD5sum: 19d8a811c1d39921a610ba446a24c117
+SHA1: aa06f41d6b9d46530b51e5ced3ee8a58ee31e141
+SHA256: f083459de8106a61958d0e2d58c10428185d5a4350619a9c8520572ac421ba91
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.64.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12800
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.64.0_1-1_i386.deb
+Size: 2003720
+MD5sum: 6fa26ad12a66bda5419dc0c11900f0df
+SHA1: 387bc457c03f6eae796bfac4defe72d5079721f4
+SHA256: 93b5272ed020707c6c4bdefca682c1c4c065318e15400c5dc624e1ee626d9b22
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.64.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12944
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.64.1_1-1_i386.deb
+Size: 2041350
+MD5sum: 2881fd695d3462dd11f32a62a8f612e8
+SHA1: a27691f9c38bb6415a5417529d5caee842d93eef
+SHA256: 115764e9ea42555988dca4a834a216e5a7d3c912f9a05f4618b42de8a3cf1c65
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.64.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 12992
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.64.2_1-1_i386.deb
+Size: 2054814
+MD5sum: 0ba224299aa9b5b5be2f74c924905441
+SHA1: 4e8d84297b2a7d603f53d77e76c726ff7848fff2
+SHA256: 3566b3fb2ba2033013148ebd1a296dcf796d35e9918e7d2221f8e0275488d9ce
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.65.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 13928
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.65.0_1-1_i386.deb
+Size: 2224332
+MD5sum: 254e50d845a2a9e2b880dff91022d386
+SHA1: 2a81cf6ffd5a2cd1b7c16483b9565b9b44d440c1
+SHA256: 016d208f532b1dfe3c612f5ba46c8527cfcdcdc9c6a637110d585c4722a123d4
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.65.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 14388
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.65.1_1-1_i386.deb
+Size: 2363958
+MD5sum: 81a107bd6d6b2bca2eafe5a3f690b2dd
+SHA1: c4afb0076a4b6857ba5d8f09d187508a21e2c029
+SHA256: 4331309a55a07a7026a98c3ebb03de22cad681a9eda131e798dad3b611a4f21c
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.90.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 15876
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.90.0_1-1_i386.deb
+Size: 2571298
+MD5sum: ba0d7426de21c920638bc090a4556076
+SHA1: 0eca033523238eefdcb40823574b32c3cae0508b
+SHA256: 3307ebabb82b0c8a98f9f9100883d5b5561bcd0b41f73b02bbaaa3dae805e103
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.90.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 15944
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.90.1_1-1_i386.deb
+Size: 2553994
+MD5sum: 7550281b592f22572502f6b0e3d362d2
+SHA1: 90ee525edc2109c4502136ccce946ac9bf6b3394
+SHA256: c262b194ab2b1dbe232366c1a1fb64370b90deb37f6a9fe0d0f73b4d0676ef6f
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-0.99.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 17336
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-0.99.0_1-1_i386.deb
+Size: 2881120
+MD5sum: 7c4880534714fe50ccc546c322e48ea8
+SHA1: 7d79e6015259f422d636d61df507fd79743bf731
+SHA256: 13bfb8b4c2d69b654716b44b8ff29a62ca2ef61147428a407c37e8c02f501420
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.0.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 17680
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-1.0.0_1-1_i386.deb
+Size: 2966084
+MD5sum: 1607bc03c63865222e10d41bfd7c734d
+SHA1: 33269bef504dad801cf348104564077a03d8535b
+SHA256: db84ee9739e5a8ce619398c99d812d94c80268505feaf8c9503d02556272ac52
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.0.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 17484
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g
+Filename: pool/main/r-evercran-debian-3.1-1.0.1_1-1_i386.deb
+Size: 2897456
+MD5sum: ab59c5ddbc857dfe5834d0819c855ee3
+SHA1: 4c5b4f9cb25f842b895bcbb2b406e30fb3586765
+SHA256: 740b018b1ab9eb9a708b2888419a28c41f3587df65b02c5a210110c7a1e433e4
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.1.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18208
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0
+Filename: pool/main/r-evercran-debian-3.1-1.1.0_1-1_i386.deb
+Size: 3045104
+MD5sum: 6c9e5b3d2795ecf9e77c8df3771c852c
+SHA1: 5915359ae6c4f6087278c6e143c4d46e01666c6b
+SHA256: 176eea445703242e27d5e9ea39bc1ec9f2c62d985a77aa5b1e565ccf3844a5f0
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.1.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 18332
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0
+Filename: pool/main/r-evercran-debian-3.1-1.1.1_1-1_i386.deb
+Size: 3073870
+MD5sum: 275265e139bc01954a7c898c4d17591d
+SHA1: 09ac03c7926bd63fab010f910a364d0066c14d3f
+SHA256: be9dc3c95e63e7e890cd6484ac3e29c7941cd1fba4f8bb0cfe38e5813a603a76
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.2.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 22484
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4
+Filename: pool/main/r-evercran-debian-3.1-1.2.0_1-1_i386.deb
+Size: 4317122
+MD5sum: 7410816264f812c4ab21033188c055d0
+SHA1: c0c177e70913a4d50bbce272f2a929fcc3fe9a4c
+SHA256: f4df56431ea138f7ac787144ac0fff62905d11699a4f0d5cffebf62029aaac3d
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.2.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 22728
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4
+Filename: pool/main/r-evercran-debian-3.1-1.2.1_1-1_i386.deb
+Size: 4374988
+MD5sum: 8e41e65de011babfc3f7fd45da7e8d7f
+SHA1: d7385add3d3b3b8e11be7e0721ca7e7840bddf08
+SHA256: 7de449cd316f9eebb6f7dbe9d905cc0427dbab4ff684b683f8886c634c98a28f
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.2.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 22708
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4
+Filename: pool/main/r-evercran-debian-3.1-1.2.2_1-1_i386.deb
+Size: 4380068
+MD5sum: 23355c1ddd5b639ee6a8a7678a84c7db
+SHA1: f1f7df43d30f49b747d41ccce94c4dc94e6d15ae
+SHA256: ce2d8e2b486cf3ce1ea0a382db222fa1b4a3cd72e97255d629583b0a377513da
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.2.3
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 22796
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4
+Filename: pool/main/r-evercran-debian-3.1-1.2.3_1-1_i386.deb
+Size: 4404870
+MD5sum: 6de09afaaf4249504e63e40c3b0b219e
+SHA1: 910d18a234cda3dcf5b219aa5f7892cc4a3a288f
+SHA256: 957fae1806346563abc96b0b4905f07e51062d7bd8f032acb3f41057f46dc335
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.3.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 42668
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.3.0_1-1_i386.deb
+Size: 7450828
+MD5sum: d8f80104e5a8a6d3d442d9ff374f9cc4
+SHA1: ba993905b3a29b0e1c632efeebc81bc35f132b97
+SHA256: 80fb4dbc5249a47c5056df08ec0e6998f2951dd638e07d993d96db1bb55b62b8
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.3.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 43292
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.3.1_1-1_i386.deb
+Size: 7611324
+MD5sum: 00b31f6758db8fe3df03f9b33e66bf24
+SHA1: a8a0f4cdffb21f21926aba30b7a9cdc621ba9fc3
+SHA256: 266a457ebeb40fa733ed11f42320bb62d8903045612bdf42687eadbb28ea7239
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.4.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 51384
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.4.0_1-1_i386.deb
+Size: 9702872
+MD5sum: 6d9dfae386441efd69c6669eec4750a9
+SHA1: a0d57354cccee3c5cd43b3f4fff6071faf4fa493
+SHA256: 9a20e2a8dae22a6b9c81dc0e42b402813ce3af86bd12e112dfa8676338d2fc46
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.4.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 52052
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.4.1_1-1_i386.deb
+Size: 9839602
+MD5sum: 8e0ccfc1abf5ba77edbf46ae5d934ad4
+SHA1: c0c5a317b57a37133344379fa7bc8d5ebda39db0
+SHA256: 984eb960897d7be751d510c8c7ad947573d7868e4fe4b36d26ccce4e36a6ca22
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.5.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 54028
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.5.0_1-1_i386.deb
+Size: 10623046
+MD5sum: ce25d1e29a2560fe7161919af4937b49
+SHA1: f78a9891731ddd8aaa81c7ee1017e4dcd9442150
+SHA256: 8647b422d1fd6792b27de619c89cc3241a016aef3e070da9b48654374b1a998b
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.5.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 54324
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.5.1_1-1_i386.deb
+Size: 10706994
+MD5sum: 2328a8353d1114dbbea08d00488487f5
+SHA1: e26f94ee5bc38d3887e0953346d150534d1a5aeb
+SHA256: 97221b07ef4ffda916fcd90d281bcae0cdc85f8c246dda30286aa571cb1a4d17
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.6.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 55116
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.6.0_1-1_i386.deb
+Size: 10932846
+MD5sum: e992d2e37aa24baf4120b7d62a01fdbb
+SHA1: 6e1272fc205955d407983425a07874a278b75778
+SHA256: aa2ffd355ddfb35cc0ba02ef305f254b63817652158351ce1b0caa539e948bec
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.6.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 55240
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.6.1_1-1_i386.deb
+Size: 10980958
+MD5sum: 1e2e4482e00876cf43257c5108091c5f
+SHA1: 2309d4a8d9f7a1f15e2939297995d6025bc90876
+SHA256: 2de0596b6eccb34a97b884364b22c7260f38efa27f9ec6d1f5c80ab74827f1ef
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.6.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 55148
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.6.2_1-1_i386.deb
+Size: 10989158
+MD5sum: 9472e50112e87d2970fac350d195c92f
+SHA1: 0e534eeeb4ac0d8a97e50ec95a70af55603f8129
+SHA256: 3da4c159ff59d199da9d116432a0bb82b9adc5991f78d933e04fd09d63710bd2
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.7.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 57020
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.7.0_1-1_i386.deb
+Size: 11586604
+MD5sum: b2ff8cd396b40f7f72de82a539da15f8
+SHA1: da71b280691784ed392f676c4738ea838cfc9f15
+SHA256: b605249be78173b31e1197dc4bbca11a0e42700e1765f813c563fb9462ed5535
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.7.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 56608
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.7.1_1-1_i386.deb
+Size: 11707644
+MD5sum: 07af1bbb6ff6dd9568dc08ab79f481a2
+SHA1: 6a9d254ee6b66658589f3f7c57e38d9e066c4577
+SHA256: 050deda74a8b8dae860e887aae70398bdb3d1b036bd3f85b66f474a0eb8b7eaf
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.8.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 58576
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.8.0_1-1_i386.deb
+Size: 12116296
+MD5sum: 7dcd7785873ce020b7aaad9f4591dab0
+SHA1: b8b348f269fbc741bb8d471f7c7f168ef3e74e3b
+SHA256: 5c6e222ace3381b19209f6c856c785bf62bcca88fd9053ee2d5da3d06da9c651
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.8.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 58772
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0, libbz2-1.0
+Filename: pool/main/r-evercran-debian-3.1-1.8.1_1-1_i386.deb
+Size: 12168768
+MD5sum: d0bca2e2e7451aaabc80a31157e99706
+SHA1: 81e9efcebd19e47377b917cc5daf130c214e9e76
+SHA256: d13d08ab6937a1d1e0416949d7bb973b3c05f73b9cfbb62a75bf4c82c266e11e
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.9.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 60256
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.9.0_1-1_i386.deb
+Size: 13446400
+MD5sum: 1db72a61c359ffb02ff380dd495702c1
+SHA1: db5b578c125cb896d712c53a20cbd19686012414
+SHA256: 5b18ba5c968ed608df651599e67885f88a99da28877d4b08418a85a8acf17976
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+
+Package: r-1.9.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 60408
+Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5, zlib1g, libjpeg62, libpng12-0, tcl8.4, tk8.4, libg2c0
+Filename: pool/main/r-evercran-debian-3.1-1.9.1_1-1_i386.deb
+Size: 13502970
+MD5sum: 423168af80366e5b200bdeb7583f274f
+SHA1: d1386cef59066c81fdddc51f9a218f6f1a55c25a
+SHA256: 09696cfa4e76a87933f17203ff0cecda9e9f3113bb2a41151b7a6708e446e3a4
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.5.3
+

@@ -1,0 +1,48 @@
+Package: protobuf-clang
+Version: 3.20.3-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 107948
+Depends: libc++1-16,libc++abi1-16,libunwind-16,libc6,libgcc-s1
+Provides: protobuf-clang
+Filename: pool/main/protobuf-clang_3.20.3-1_amd64.deb
+Size: 17631522
+MD5sum: 3bb28e8d5b6d86846acdcf6e6edc8571
+SHA1: 42bc7b674eb3d8ae26f314d7ad48f962b0c0dda9
+SHA256: a7e59a523e6623327662255a72e8a6822216f7186f8fd795ba8f0b4f2f93b596
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: protobuf-clang17
+Version: 3.20.3-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 109072
+Depends: libc++1-17,libc++abi1-17,libunwind-17,libc6,libgcc-s1
+Provides: protobuf-clang17
+Filename: pool/main/protobuf-clang17_3.20.3-1_amd64.deb
+Size: 17900522
+MD5sum: a4dea76a4c9d5934ced221f9efefaa48
+SHA1: 1503e517778f09d9a92c769d6c7b39ad35932bc4
+SHA256: 819e680081e6fd7d3dc9c11c79cefd6a74d300cf3a0bfcdbcec668bfd2a56e3d
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: skopeo
+Version: 1.11.1-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 27144
+Depends: libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libgpgme11 (>= 1.4.1), libassuan0 (>= 2.5.5), libselinux1 (>= 3.3), libudev1 (>= 249.11), libpcre2-8-0 (>= 10.39)
+Provides: skopeo
+Filename: pool/main/skopeo_1.11.1-1_amd64.deb
+Size: 7822814
+MD5sum: 521d8bcba704eec781663522bffa00c8
+SHA1: 29bef8b99b9f2b68704c229bf9e25e562ca4f60d
+SHA256: 42c9925581e177e50077f1edc80d6f6e4764dbb5741d0c7163907263db394162
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+

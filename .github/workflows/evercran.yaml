@@ -1,0 +1,45 @@
+name: Update evercran PPA
+
+on:
+  workflow_dispatch:
+
+jobs:
+  evercran:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: "Install requirements"
+      run: |
+        sudo apt-get update && sudo apt-get install -y dpkg-dev git
+
+    - name: "Download R builds"
+      run: |
+        cd evercran
+        for rver in `cat r-versions.txt`; do
+        (
+            cd pool/main
+            curl -LO https://github.com/r-hub/R/releases/download/v${rver}/r-evercran-debian-3.1-${rver}_1-1_i386.deb
+        )
+        done
+
+    - name: "Create Packages* files"
+      run: |
+        cd evercran
+        dpkg-scanpackages --arch i386 pool/ > dists/sarge/main/binary-i386/Packages
+        gzip -kf dists/sarge/main/binary-i386/Packages
+
+    - name: "Generate Release file"
+      run: |
+        cd evercran
+        cd dists/sarge
+        ./sarge-release.sh > Release
+
+    - name: "Commit and push changes"
+      run: |
+        git config --local user.name "$GITHUB_ACTOR"
+        git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git add .
+        git commit -m 'PPA update from GHA'
+        git push origin || echo "No changes to commit"
