@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: R-hub
+Label: R-hub
+Suite: jammy
+Codename: jammy
+Version: 1.0.0
+Architectures: amd64
+Components: main
+Description: Packages for R-hub's containers
+Date: Tue, 28 Feb 2023 10:37:39 +0000
+MD5Sum:
+ 4d07247233cd013d8b52693df93715ef 530 main/binary-amd64/Packages
+ 679a0d601cc705c825ec9075eba39baa 381 main/binary-amd64/Packages.gz
+SHA1:
+ fecdff1141a89ae27e8a405a1269def35814bc95 530 main/binary-amd64/Packages
+ 0a6fb5f69ad43021bcd8f9c391e5ac965119a5e2 381 main/binary-amd64/Packages.gz
+SHA256:
+ c4f4690f10635bf72c015126f68929209a78b585d916377855fe483eaad010d4 530 main/binary-amd64/Packages
+ cad8ab660566b06a2ffae781f919e3bad4da568744a17f07a27d3efca0860493 381 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmP94h0XHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdwX5g//e2NcApyRUxNVC2A6ORGa4K4w
+1DMWDnjF5GUlIpopukLiDXSAsvqVA4pxW7BjqMJQxImf2k+WaQILbpXU96XvfMjp
+xKLC1BHJfD36CAwP0CjJ1yYDeiAlYk0zm8ay3mGPYCu3VhsU+U8lAGl3XKfO3Y+E
+WyO22EdduoLejlhdwIyonmaeMZ1793yS3QAq30XhevBRHJtklUCk6QDwZY+yivhl
+hv4lD5UpP9I8UTkPPvtX8E/BHG8ZtHWJ4XP280Zz+uXsBlyL6kktFAFh3jVI3J0D
+smKo+zfXYPgj1+4s0cSPtTSCmcOXRBfBRrmskaIJY3yLNax3bRuQzEc9tX6A526d
+hqEIDXBw+S3V7O31I3B50zi0XoP5sCF6IHBi5mmVKWLPAxZvQROQBvFSgU3lzZWE
+40kPDkWyzZO8kunQ4SQuGlqZi1qBu0Hpxu7hs16+WkJqsW2dOuHLkPvr3a0uwOHJ
+Fqsq+oVLeopIQahmQW5L/GGbiKAEJdxw+b5Jmt7NQLTa73ML2zVlkmJED+k1x013
+Pe9U3vEyn2dVWKWm/LEE3Rf0XAFunzchq7o44zCoSEdsxv0uV34KwykJUtJH6Szj
+T1zsCQVMzJJqd6DhF6uOHa3okKU+WW2RKJk9ush5vfaw/+XGQGwzw1lvhReO4uob
+5JTwzTYZCD/Ep/uNK3k=
+=/FGC
+-----END PGP SIGNATURE-----
