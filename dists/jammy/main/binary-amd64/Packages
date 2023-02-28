@@ -1,0 +1,16 @@
+Package: protobuf-clang
+Version: 3.20.3-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 107948
+Depends: libc++1-16,libc++abi1-16,libunwind-16,libc6,libgcc-s1
+Provides: protobuf-clang
+Filename: pool/main/protobuf-clang_3.20.3-1_amd64.deb
+Size: 17631522
+MD5sum: 3bb28e8d5b6d86846acdcf6e6edc8571
+SHA1: 42bc7b674eb3d8ae26f314d7ad48f962b0c0dda9
+SHA256: a7e59a523e6623327662255a72e8a6822216f7186f8fd795ba8f0b4f2f93b596
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
