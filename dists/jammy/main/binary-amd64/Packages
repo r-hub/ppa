@@ -14,3 +14,19 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: skopeo
+Version: 1.11.1-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 27144
+Depends: libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libgpgme11 (>= 1.4.1), libassuan0 (>= 2.5.5), libselinux1 (>= 3.3), libudev1 (>= 249.11), libpcre2-8-0 (>= 10.39)
+Provides: skopeo
+Filename: pool/main/skopeo_1.11.1-1_amd64.deb
+Size: 7822814
+MD5sum: 521d8bcba704eec781663522bffa00c8
+SHA1: 29bef8b99b9f2b68704c229bf9e25e562ca4f60d
+SHA256: 42c9925581e177e50077f1edc80d6f6e4764dbb5741d0c7163907263db394162
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
