@@ -1,12 +1,24 @@
-# ppa
+
+# Personal Package Archive for R-hub
 
 ## Current packages
 
 * `protobuf-clang`: protobuf compiled with clang, linking against
-  libc++. It needs the libc++-16 libs.
+  libc++. It needs the libc++-16 libs (see `Dockerfile`).
   [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/protobuf/Dockerfile)
-  * `skopeo`: a newer version, to be able to push packages to GHCR.
+* `skopeo`: a newer version, to be able to push packages to GHCR.
   [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/skopeo/Dockerfile)
+
+## Using this repository
+
+```sh
+echo "deb https://r-hub.github.io/ppa/ jammy main" \
+    > /etc/apt/sources.list.d/rhub.list
+curl -L https://raw.githubusercontent.com/r-hub/ppa/main/rhub.gpg.key |
+    apt-key add -
+apt-get update -y
+apt-get install -y ...
+```
 
 ## Adding new packages
 
