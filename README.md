@@ -55,20 +55,19 @@ apt-get install -y ...
      > dists/jammy/InRelease
    ```
 6. Test
-```
-echo "deb [arch=amd64] http://127.0.0.1:8000/ jammy main" \
-  > /etc/apt/sources.list.d/rhub.list
-apt-get install -y python3 curl
-python3 -m http.server
-```
-
-From another terminal:
-```
-curl -L http://127.0.0.1:8000/rhub.gpg.key | apt-key add -
-apt-get update
-apt-get install skopeo
-skopeo --version
-```
+   ```
+   echo "deb [arch=amd64] http://127.0.0.1:8000/ jammy main" \
+      > /etc/apt/sources.list.d/rhub.list
+   apt-get install -y python3 curl
+   python3 -m http.server
+   ```
+   From another terminal:
+   ```
+   curl -L http://127.0.0.1:8000/rhub.gpg.key | apt-key add -
+   apt-get update
+   apt-get install skopeo
+   skopeo --version
+   ```
 
 ## Thanks
 
