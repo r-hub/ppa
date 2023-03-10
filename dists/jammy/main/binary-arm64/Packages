@@ -1,0 +1,16 @@
+Package: skopeo
+Version: 1.11.1-1
+Architecture: arm64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 26100
+Depends: libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libgpgme11 (>= 1.4.1), libassuan0 (>= 2.5.5), libselinux1 (>= 3.3), libudev1 (>= 249.11), libpcre2-8-0 (>= 10.39)
+Provides: skopeo
+Filename: pool/main/skopeo_1.11.1-1_arm64.deb
+Size: 7146034
+MD5sum: e78a683f949a62c0ce9390d834c358bd
+SHA1: ebc4a927d18681bb12e3cbaae7175a923ffba5ec
+SHA256: bbd5b170426eb1aae13dde173d4876df1476bba914f31783cdcc3361b1310bce
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+

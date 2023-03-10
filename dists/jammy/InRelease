@@ -6,39 +6,45 @@ Label: R-hub
 Suite: jammy
 Codename: jammy
 Version: 1.0.0
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: Packages for R-hub's containers
-Date: Fri, 10 Mar 2023 15:28:14 +0000
+Date: Fri, 10 Mar 2023 17:22:59 +0000
 MD5Sum:
- b87773b84ae87f4a1251b9c714a153e7 866 Release.gpg
- 5b90f3a390a5c50096420e7e5c6c637e 1985 InRelease
- 21ec2ec43b72c6bc06bb272fff7467fa 608 main/binary-amd64/Packages.gz
+ c9b18f23af42641f8ec06738e9d80937 1988 InRelease
+ 5c0cc8fad546024182f19bc6cbd3367e 866 Release.gpg
  9000d718bce1aa8244ea9ca7d84298c7 1146 main/binary-amd64/Packages
+ 21ec2ec43b72c6bc06bb272fff7467fa 608 main/binary-amd64/Packages.gz
+ 18a8850cc02f626ce974f5616a3583b5 616 main/binary-arm64/Packages
+ 534907365061e15fadb7e762db8d7bca 433 main/binary-arm64/Packages.gz
 SHA1:
- defda8bc188d35b03bef4afbff71d28712f0e8b6 866 Release.gpg
- 3d285033c2558454de367766909e5d3d5c172d84 1985 InRelease
- fe3c34027bee6da7c81282e6af1494e85ed3272f 608 main/binary-amd64/Packages.gz
+ c2299314d4309e35c110934cc00d20601e7abf96 1988 InRelease
+ 73841aae9b030354f403bceaf57ca1477565003c 866 Release.gpg
  52878ce6306443b0edb0a226e502680fff8f0ccb 1146 main/binary-amd64/Packages
+ fe3c34027bee6da7c81282e6af1494e85ed3272f 608 main/binary-amd64/Packages.gz
+ 0b34d2f684a563b7b4675e8edfe6ea822958a499 616 main/binary-arm64/Packages
+ 6b16938804b379c4474bb9ec34ea5d083ff5e52a 433 main/binary-arm64/Packages.gz
 SHA256:
- 0db9a1f99487bf33a1e0811bc0ed508adcffe87cc5d8b5c7660f931602731f4c 866 Release.gpg
- 1039133feb14e3f9317685eb61451ede9663083eaea4f3692d5a919370e8b399 1985 InRelease
- 7c22d5c391d07f7af206a1f7e33d57d00107c759332e5137071f39fd65548016 608 main/binary-amd64/Packages.gz
+ 5c4c4bd5db2211ee1ed768ef232350ee626b93ba963a18ebc0fa70b2f94e2ea3 1988 InRelease
+ d13b9fcd9ffe10acd6fdb73308f654d38ca3f0e70b4e0ecf54297b07a4172312 866 Release.gpg
  fb708780614f28a53161b1a5cb8816cb2e31f1e9d6f37ad930d3a1b1fa149150 1146 main/binary-amd64/Packages
+ 7c22d5c391d07f7af206a1f7e33d57d00107c759332e5137071f39fd65548016 608 main/binary-amd64/Packages.gz
+ b8414af4d798882abb055dafb513fbe73c87880fd58aa7df17e889a45aff726d 616 main/binary-arm64/Packages
+ f347dbd8fb2d0e5c1220a68ded49a804a98e2269dc457193549e72aef32ebaaf 433 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmQLTKgXHGNzYXJkaS5n
-YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdyenxAAzt/wG4mDyCLKOJYMCbM7nPOx
-bthoeRHOZVrko9Jrxs7r8fBlIfc38QN18hvGj9Gy26cO5JsYjFTvagGBsGQpQ3Qb
-9lHzNL/yEeLHxNVCd7xO3y2Hc5zMIgbWuuK49SnPCXnNX5dh041NsDuHIaeUxTLg
-kQJiA8Kd+avKtfiOqfWJpiJgES30F47L25a6mCEcXjDo8HbLJyaXzCNVqvNjNf2K
-Eu1S6lZqTpXUBt00UJnU1bWTmLZRhBGi/GQYq3TDFfaZi9Hu1HiYutYfJki1SXEM
-aVE6y4mHXEQE8thMGtQVbzjLtsZ2+D3S9Xxr+KMATFE8UxvJqsPM3P2mBbd6Xi1c
-GMhXWIueMdGSZlD5jFE9a4pT18o68BekQBfhvXarshHGy/+ZpytnORp9phqLo9Bg
-n+b3jJQF9pOxs5A4yFn02FOI7hwZ05d+2iMgqWaVCekU2CfaV7k5DEWi/RusktZK
-+rTXRFhXUzanxXCF5TRuOblfP96OX+GbiLQ4d52msXcP3OQ6A2Hn0wWH46z+umGw
-GcRWz7+ZZYcneX9JlpPsFI7Tq2Cs5t6iHscBirKs/gDdCZEP3Bbo9d5VvQouvVOQ
-Af8UO22wAg8pIEo/QPT+XsGTxlWbWv2w2mogIbmxamxF0VwmtJ99lxtuGdirQ55F
-I/OSVC10ivr5TjdaZ/c=
-=iKO/
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmQLdfcXHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdxrmhAAsTAE5kjRwONrrgA3Ff20TpAe
+L1cMQNayIlsOkeHHeaAcTKE7ytYG0CW7oCobDUxZEGwKzMq3Jvg7SxBWLswLgSpU
+foL6x4quLdmfdvXoPxFlE5wnBaSU1dVPdPMXGCTvRgBkSz/Z7tVB7I1yGfhBJOaU
+7qnvAJPeI2RegFPiCvxmM7ntw6PsCZjZi5+v1jvkvD60/TEJj5MD1JinADKeeBEZ
+WZU1a4yBBle12sqOmLATgi6FgRECmizP6lJfBNroyJaTuj5p0UAY8B6hBWB4zIR1
+SbkSNoHMqkgeamcLCEuY/7tMFne9R2FIZKhpH0/uMHEAhMvNsGvdye0uhf3gtDH9
+S1FuGWa1kmJHKKW2VXK9DvHq8MtCWUd2mMw80qG5LfTsjvnKXdelVS6eGflBScmc
+Fx3Vjip/fAGDkFRD+NPrDSRsV5yAZQ3x5VWlcr7fdJsS1zPanVe5m6fdOjXe61bj
+Dg7bPyM17KpGZqU2ynJgPfAEDomu9Gb6BlzwKO8sh6fhZO1o6ON6YwJ2saXH3uPx
+XSa8xTr1OFE9CzLm6UdOobY+FlX7bWZAZUoRD4VbHdVtqkFeT/CdDYyQP2jEGbKB
+F3sRnxBXYlefN5tz5nNGQ1jSkzewNfUgFsxAAplMcxOxhOTpfDorogw+s7suhgaQ
+LNQhB43IPoyRNIwr1iU=
+=ksKm
 -----END PGP SIGNATURE-----

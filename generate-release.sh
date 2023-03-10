@@ -20,7 +20,7 @@ Label: R-hub
 Suite: jammy
 Codename: jammy
 Version: 1.0.0
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: Packages for R-hub's containers
 Date: $(date -Ru)
