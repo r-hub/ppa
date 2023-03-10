@@ -69,3 +69,7 @@ apt-get update
 apt-get install skopeo
 skopeo --version
 ```
+
+## Thanks
+
+[Creating and hosting your own deb packages and apt repo](https://earthly.dev/blog/creating-and-hosting-your-own-deb-packages-and-apt-repo/) by Alex Couture-Beil @ [Earthly](https://earthly.dev/).
