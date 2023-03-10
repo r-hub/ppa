@@ -1,1 +1,59 @@
 # ppa
+
+## Current packages
+
+* `protobuf-clang`: protobuf compiled with clang, linking against
+  libc++. It needs the libc++-16 libs.
+  [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/protobuf/Dockerfile)
+  * `skopeo`: a newer version, to be able to push packages to GHCR.
+  [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/skopeo/Dockerfile)
+
+## Adding new packages
+
+0. You need an Ubuntu or Debian machine, e.g.
+   ```
+   docker run -ti -v `pwd`:/root/ppa ubuntu:22.04 bash
+   ```
+   and a couple of packages:
+   ```
+   apt-get update && apt-get install -y git dpkg-dev gpg
+   ```
+1. Copy the DEB files into `pool/main`.
+2. Create `Packages*` files:
+   ```
+   dpkg-scanpackages --arch amd64 pool/ > dists/jammy/main/binary-amd64/Packages
+   gzip -kf dists/jammy/main/binary-amd64/Packages
+   ```
+3. Generate `Release` file
+   ```
+   (cd dists/jammy && ../../generate-release.sh > Release)
+   ```
+4. Import private key for signing
+   ```
+   gpg --armor --import pgp-key.private
+   ```
+5. Sign the `Release` file
+   ```
+   export GPG_TTY=$(tty)
+   cat dists/jammy/Release |
+     gpg --default-key csardi.gabor@gmail.com -abs \
+     > dists/jammy/Release.gpg
+   cat dists/jammy/Release |
+     gpg --default-key csardi.gabor@gmail.com -abs --clearsign \
+     > dists/jammy/InRelease
+   ```
+6. Test
+```
+echo "deb [arch=amd64] http://127.0.0.1:8000/ jammy main" \
+  > /etc/apt/sources.list.d/rhub.list
+apt-get install -y python3 curl
+python3 -m http.server
+```
+
+From another terminal:
+```
+curl -L http://127.0.0.1:8000/rhub.gpg.key | apt-key add -
+apt-get update
+apt-get install skopeo
+skopeo --version
+```
