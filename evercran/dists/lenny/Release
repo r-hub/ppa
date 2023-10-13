@@ -1,0 +1,21 @@
+Origin: R-hub
+Label: R-hub
+Suite: lenny
+Codename: lenny
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 08:48:22 +0000
+MD5Sum:
+ f29dac1a17fb99fbbcc4a03e36448b6a 571 lenny-release.sh
+ 828fa12811f5002067e0861a83ac63ce 1618 main/binary-i386/Packages.gz
+ ca01d4791d94075e440e241f5750d6c0 8653 main/binary-i386/Packages
+SHA1:
+ 70452e5c2fdc609adaad195af7e26d20ed6e55c6 571 lenny-release.sh
+ 042799b0abd8fce2252977b41ef7854dd4d52612 1618 main/binary-i386/Packages.gz
+ 5a8c5e371f046e22471dfb04834d0da0f94f1ca8 8653 main/binary-i386/Packages
+SHA256:
+ 6271acb286cb61e139f00703bb5ff6ed9b62eee5ca23f0d2c9bb5fc129998a55 571 lenny-release.sh
+ b42e4a92cbd7c3e55dbff001a6aab828801feedab1bf26ae75ccf43a6e829e8d 1618 main/binary-i386/Packages.gz
+ 0c4cc49b9f5943125a7af3a77fd5c83d3922255d666ea067b1a6f469ccd61910 8653 main/binary-i386/Packages

@@ -1,0 +1,160 @@
+Package: r-2.10.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45248
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.10.0
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.10.0_1-1_i386.deb
+Size: 24041934
+MD5sum: 6b7da155c0d1a35590ef92f5b5f8c7bc
+SHA1: 060d37d22cc7c1ac2792a7a889e876beabc2418c
+SHA256: 788369a9189e34751a3069765f594dd379559ff5617f4e85bd0b33687e4ae3e5
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.10.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45924
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.10.1
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.10.1_1-1_i386.deb
+Size: 24741068
+MD5sum: e6275d8b205c0b095d68253e77c2694f
+SHA1: 20a60750d7801e1af1fdcefa085271940acb2ddf
+SHA256: 18cef4f3e2a945c14098f67132d0a2644f9752d362c90b4c483f6803a8b24e83
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.11.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45764
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.11.0
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.11.0_1-1_i386.deb
+Size: 24629202
+MD5sum: 4ab3f8fffc2d2588d3c306ab2479d5af
+SHA1: e816ba56cd14267c805db23e7e7840cfcd24f85c
+SHA256: 45ab47dc57317fe1e92410ddab39669185dc4c81fcb92922a9b4c227be389b57
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.11.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45848
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.11.1
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.11.1_1-1_i386.deb
+Size: 24748494
+MD5sum: a1321735bdae3b04ed434e25ddd68e7b
+SHA1: 9463c4f434036c29f144f5c6dc45e48fa70da2e5
+SHA256: f0d6538f78f7762dd6f9dc9ed821210c22a7f7f327b21e17410a8a8524f13b32
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.12.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45644
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less
+Provides: r-2.12.0
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.12.0_1-1_i386.deb
+Size: 24656524
+MD5sum: 492d31816fdbb75fb84fc1a6b5fa44c5
+SHA1: 8e483793f400c8cb258416e78bad5628014072e3
+SHA256: 8518ed83297561745ad946b5822bb2087a6e505295031d84b445d5a82672cf45
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.12.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 46064
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less
+Provides: r-2.12.1
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.12.1_1-1_i386.deb
+Size: 25054330
+MD5sum: 2a69ace474ec66bc143fe48cb8d07c30
+SHA1: 0ba5f1450c118d90905bfdb3a2c6a3cf779d6761
+SHA256: ab2fa0a34de16127abe572962de8b57cd604b469d34527c6f9fdfd0dbc809893
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.12.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 45644
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less
+Provides: r-2.12.2
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.12.2_1-1_i386.deb
+Size: 24840326
+MD5sum: 2790dfbb9f9b15ac3a9ecf3929a8b2da
+SHA1: b7459f04b02d3f60eef5c071083d5ad9df28e55a
+SHA256: e8427f357843e4f74a88d0c270567369818ddcb061921d8ad6c3983ba15ba41b
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.9.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 80724
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.9.0
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.9.0_1-1_i386.deb
+Size: 23754216
+MD5sum: d9cec9059d6e8b39a3f798a3603593ed
+SHA1: 6f29ba40c879cbff915e6473c552e5edc60d0746
+SHA256: b8b302d5d2c2e9db7631868e22d4f4f7d3e65805e54a8e46b879edec526d8db8
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.9.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 81284
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.9.1
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.9.1_1-1_i386.deb
+Size: 23895496
+MD5sum: 5107473a56f79a8b0f3aea0ff93804be
+SHA1: 9266257b08b8dec58482353bf499681f6538da83
+SHA256: 2a7ff05c32311a475f1e54a96b5d1699d9e39e742f68ecd3d30c7d6c1ad7f67f
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.9.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 80992
+Depends: libc6, libcairo2, libdirectfb-1.0-0, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgfortran3, libglib2.0-0, libice6, libicu38, libjpeg62, libncurses5, libpango1.0-0, libpcre3, libpixman-1-0, libpng12-0, libreadline5, libsm6, libstdc++6, libx11-6, libxau6, libxcb-render-util0, libxcb-render0, libxcb-xlib0, libxcb1, libxdmcp6, libxrender1, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.9.2
+Filename: pool/lenny/r-evercran-debian-5.0.10-2.9.2_1-1_i386.deb
+Size: 23816986
+MD5sum: e812321953192c13df722b1db5d3350c
+SHA1: 869dc0aaea8494fd49313abb835d1872a08086df
+SHA256: 5c86301c3b2f124b08523135c4d190f8b0f48a5a3a3ea05190683976d44bd7ff
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
