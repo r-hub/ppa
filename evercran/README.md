@@ -22,24 +22,35 @@ See <https://github.com/r-hub/evercran> for more about evercran.
    ```
    apt-get update && apt-get install -y git dpkg-dev gpg
    ```
-1. Copy the DEB files into `pool/`. (In the container or on the host.)
+
+1. Create directories
    ```
-   for rver in `cat r-versions.txt`; do
-   (
-     cd pool/sarge
-     curl -LO https://github.com/r-hub/R/releases/download/v${rver}/r-evercran-debian-3.1-${rver}_1-1_i386.deb
-   )
-   done
+   cd ~/ppa
+   mkdir -p pool/sarge pool/etch pool/lenny pool/squeeze
+   mkdir -p dists/sarge/main/binary-i386
+   mkdir -p dists/etch/main/binary-i386
+   mkdir -p dists/lenny/main/binary-i386
+   mkdir -p dists/squeeze/main/binary-i386
    ```
-2. Create `Packages*` files:
+
+2. Copy the DEB files into `pool/`. (In the container or on the host.)
+
+3. Create `Packages*` files:
    ```
-   dpkg-scanpackages --arch i386 pool/sarge > dists/sarge/main/binary-i386/Packages
-   dpkg-scanpackages --arch i386 pool/lenny > dists/lenny/main/binary-i386/Packages
+   dpkg-scanpackages --arch i386 pool/sarge   > dists/sarge/main/binary-i386/Packages
+   dpkg-scanpackages --arch i386 pool/etch    > dists/etch/main/binary-i386/Packages
+   dpkg-scanpackages --arch i386 pool/lenny   > dists/lenny/main/binary-i386/Packages
+   dpkg-scanpackages --arch i386 pool/squueze > dists/squeeze/main/binary-i386/Packages
    gzip -kf dists/sarge/main/binary-i386/Packages
+   gzip -kf dists/etch/main/binary-i386/Packages
    gzip -kf dists/lenny/main/binary-i386/Packages
+   gzip -kf dists/squeeze/main/binary-i386/Packages
    ```
-3. Generate `Release` file
+
+4. Generate `Release` file
    ```
-   (cd dists/sarge && ./sarge-release.sh > Release)
-   (cd dists/lenny && ./lenny-release.sh > Release)
+   (cd dists/sarge   && ./sarge-release.sh   > Release)
+   (cd dists/etch    && ./etch-release.sh    > Release)
+   (cd dists/lenny   && ./lenny-release.sh   > Release)
+   (cd dists/squeeze && ./squeeze-release.sh > Release)
    ```

@@ -1,0 +1,21 @@
+Origin: R-hub
+Label: R-hub
+Suite: etch
+Codename: etch
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 09:52:09 +0000
+MD5Sum:
+ 16e0eca08e310f544acd8eea74e10581 569 etch-release.sh
+ 17b60bc40165e73b80ca623edcdb1742 1257 main/binary-i386/Packages.gz
+ d2d88d13ee20a63219ab4d5b9001ad48 5083 main/binary-i386/Packages
+SHA1:
+ 79fea0849345667ae0654a47f42f5a86a2bb3716 569 etch-release.sh
+ 73c19b6224953354849cf58d6490679690f47ac3 1257 main/binary-i386/Packages.gz
+ a5cd93d8b2cac3f0084aec37c0e559c4376eaa43 5083 main/binary-i386/Packages
+SHA256:
+ d99a2ec6f30b82bf35fdb8e530cf60115b2df1855aed41e30f3d58dfed6ae597 569 etch-release.sh
+ 6b8067c88b78a68f5f55634c77ccf74545eadf2a29d8a098e3a30617333b133a 1257 main/binary-i386/Packages.gz
+ 1212ec68ca24203e6da76952a48aa349484eded7eb463034145853d2c885af11 5083 main/binary-i386/Packages

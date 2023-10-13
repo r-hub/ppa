@@ -1,0 +1,128 @@
+Package: r-2.6.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 67844
+Depends: libc6, libgcc1, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.6.0
+Filename: pool/etch/r-evercran-debian-4.0-2.6.0_1-1_i386.deb
+Size: 18294202
+MD5sum: 3d0919ffa329f8f444d5f7bf0c1bd0ba
+SHA1: 3e49bbf48a701bbe921d416d2a217ec4ed76c8d5
+SHA256: 22ed1190fd3589417abbcf00dec82868b33810516b1240876bbb270fc09e247f
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.6.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 68060
+Depends: libc6, libgcc1, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.6.1
+Filename: pool/etch/r-evercran-debian-4.0-2.6.1_1-1_i386.deb
+Size: 18371580
+MD5sum: b6f6423a4b29782acebb81d1ad8653bf
+SHA1: 8d31206eb5c13c8a06e08fd65b6f1944151689f4
+SHA256: b3dce27e080cdbbdb93b24ff4d60ec14d7190468d5c4cbcf4b60756bbc3c34d9
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.6.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 68204
+Depends: libc6, libgcc1, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.6.2
+Filename: pool/etch/r-evercran-debian-4.0-2.6.2_1-1_i386.deb
+Size: 18412372
+MD5sum: ae25df4fc4f1d2f7f14b13b9309a058e
+SHA1: f96df43df561171c6c6f2ea48f7a62c9f672901d
+SHA256: dc49d93bd8bd773227e65745721474217eada4d58a1c898a42f55255cbcca353
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.7.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 69416
+Depends: libc6, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.7.0
+Filename: pool/etch/r-evercran-debian-4.0-2.7.0_1-1_i386.deb
+Size: 18769092
+MD5sum: a80feb3eedb41502119ef3666b092397
+SHA1: 0130d762e18710236fdd4eecfc226ef9b19cb84d
+SHA256: 44cfd5399991560a6becad112d887d585c08c032c23d84795cafa266fe992b5a
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.7.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 69768
+Depends: libc6, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.7.1
+Filename: pool/etch/r-evercran-debian-4.0-2.7.1_1-1_i386.deb
+Size: 18880322
+MD5sum: 1fc3ed4cfcaf1330cc6b242c450efb00
+SHA1: 09086a751276480be6176e678b06627199640776
+SHA256: 71175ae4e02cf13dbf2a579035927cf35b9ad1d7719f6a9eedd3d9586642d819
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.7.2
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 69880
+Depends: libc6, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.7.2
+Filename: pool/etch/r-evercran-debian-4.0-2.7.2_1-1_i386.deb
+Size: 18918922
+MD5sum: 070fad33e67d01a113e8881e77011563
+SHA1: ce4819afa329ee5ff9182248e0201a0216065931
+SHA256: 5583251f30653bce2e2de5c98a10bd24e4b95c9d18115c37554a4ac0d5b2d051
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.8.0
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 70532
+Depends: libc6, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.8.0
+Filename: pool/etch/r-evercran-debian-4.0-2.8.0_1-1_i386.deb
+Size: 19146006
+MD5sum: fed0a132bff79545402a12594bbce6d0
+SHA1: a12867f3000c7da21efd71103accc84321c42955
+SHA256: ea95b7238eba1a7b76aec34179ea2693c9b65621a51cf9a3424531b664717e19
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+
+Package: r-2.8.1
+Version: 1-1
+Architecture: i386
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 70640
+Depends: libc6, libgfortran1, libice6, libjpeg62, libncurses5, libpng12-0, libreadline5, libsm6, libx11-6, libxau6, libxdmcp6, libxt6, tcl8.4, tk8.4, zlib1g, less, perl
+Provides: r-2.8.1
+Filename: pool/etch/r-evercran-debian-4.0-2.8.1_1-1_i386.deb
+Size: 19203002
+MD5sum: 920f9d5eeba75a18a06e7d6f8bbc1014
+SHA1: 77efead92fdb87219c6c99ab75e33fc3d3d963d2
+SHA256: 2be43bab217ec21d9e90df3b98e474c16c3abcdc187c73088441ac50d27e0aa0
+Section: checkinstall
+Priority: extra
+Description: GNU R statistical computation and graphics system
+

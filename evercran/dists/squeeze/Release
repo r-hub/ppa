@@ -1,0 +1,15 @@
+Origin: R-hub
+Label: R-hub
+Suite: squeeze
+Codename: squeeze
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 09:52:12 +0000
+MD5Sum:
+ fafee383cfdd6521ae3bce004f1bb2a4 575 squeeze-release.sh
+SHA1:
+ fd04fa9c8d88073c56d13cdbb5e1e93835d1cc6e 575 squeeze-release.sh
+SHA256:
+ e0b5da60103dc8e6afb589bbb0234ec5f97933281d7b6284454981076c628145 575 squeeze-release.sh
