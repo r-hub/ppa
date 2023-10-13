@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: R-hub
+Label: R-hub
+Suite: lenny
+Codename: lenny
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 08:48:22 +0000
+MD5Sum:
+ f29dac1a17fb99fbbcc4a03e36448b6a 571 lenny-release.sh
+ 828fa12811f5002067e0861a83ac63ce 1618 main/binary-i386/Packages.gz
+ ca01d4791d94075e440e241f5750d6c0 8653 main/binary-i386/Packages
+SHA1:
+ 70452e5c2fdc609adaad195af7e26d20ed6e55c6 571 lenny-release.sh
+ 042799b0abd8fce2252977b41ef7854dd4d52612 1618 main/binary-i386/Packages.gz
+ 5a8c5e371f046e22471dfb04834d0da0f94f1ca8 8653 main/binary-i386/Packages
+SHA256:
+ 6271acb286cb61e139f00703bb5ff6ed9b62eee5ca23f0d2c9bb5fc129998a55 571 lenny-release.sh
+ b42e4a92cbd7c3e55dbff001a6aab828801feedab1bf26ae75ccf43a6e829e8d 1618 main/binary-i386/Packages.gz
+ 0c4cc49b9f5943125a7af3a77fd5c83d3922255d666ea067b1a6f469ccd61910 8653 main/binary-i386/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmUpMxwXHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdwAdhAAoHB3asAkhEXL+gqArNeRYZkU
+Be86bfL21UjEBO0LnBK6gfIraPQhjog+uVtCmhNAbanbNZyjkMB+MkkUlm5Umt5G
+GFjWIbLufIQ5Fz/lpZPNc52JYIS1iIU18L0djWkzYa/4FPsd9T7tXHS62nUZb9HH
+UiYOXxZYKnuAhs5d8vAadtGPEENPzySxeX5xWBjAzHUtsvGVSORUBT7yz5ihE8NV
+uOL2v9M7HEBMEuyF7cviNmzeB00K+zxZRwk1tlgTGJbMAkMmAhBuzHfNZgJD4QHs
+37N2///SiTjoB2N3+eLgC17yJe8S2mCvIf60yNUFGZJWpR3S7Wdv/xNQb/m+sPx2
+Wk0Y9rXdZsY0mHqfbC5zGoqOianqP00oArlu46IoorWjJs3NPE0lGwnA/xYmNzrg
+ikAhb6IACiT/Ko189vIwZxeaFxFC2XhP2SXpFTRUHyNBUjtdiVrzGJEfLZyTZ5el
+lT7RHo3ZOZHVCOiWlnBev6bQzzVOq+d9QgcZaenZUhCGusCoGQFA8E3GIEk0FOuE
+rIf9uhsi41MHyg5qGDVbsKwmiLXKyX4uvoHchEGfQTsKHwrRnawZIAxLOZwcL0I6
+N3qJIDJCmfqdITX+20H7gN7W3NgEExT3SYYF3OZg+XFP61o5XO0RImWvUnuTkwBk
+Ab4oS5yY0/X2ip0qSZ4=
+=zRVr
+-----END PGP SIGNATURE-----

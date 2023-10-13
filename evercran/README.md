@@ -17,6 +17,7 @@ apt-get install -y r-1.0.0
 ```sh
 echo 'deb http://ppa.r-pkg.org/evercran etch main' \
     >> /etc/apt/sources.list
+curl -L http://ppa.r-pkg.org/rhub.gpg.key | apt-key add -
 apt-get update -y
 apt-get install -y r-2.6.0
 ```
@@ -26,6 +27,7 @@ apt-get install -y r-2.6.0
 ```sh
 echo 'deb http://ppa.r-pkg.org/evercran lenny main' \
     >> /etc/apt/sources.list
+curl -L http://ppa.r-pkg.org/rhub.gpg.key | apt-key add -
 apt-get update -y
 apt-get install -y r-2.9.0
 ```
@@ -35,6 +37,7 @@ apt-get install -y r-2.9.0
 ```sh
 echo 'deb http://ppa.r-pkg.org/evercran squeeze main' \
     >> /etc/apt/sources.list
+curl -L http://ppa.r-pkg.org/rhub.gpg.key | apt-key add -
 apt-get update -y
 apt-get install -y r-2.13.0
 ```
@@ -88,3 +91,20 @@ See <https://github.com/r-hub/evercran> for more about evercran.
    ```
    gpg --armor --import pgp-key.private
    ```
+
+6. Sign `Release` files.
+   ```
+   export GPG_TTY=$(tty)
+   for dist in sarge etch lenny squeeze; do
+     cat dists/${dist}/Release |
+       gpg --default-key csardi.gabor@gmail.com -abs \
+       > dists/${dist}/Release.gpg
+     cat dists/${dist}/Release |
+       gpg --default-key csardi.gabor@gmail.com -abs --clearsign \
+       > dists/${dist}/InRelease
+   done
+   ```
+
+## Thanks
+
+[Creating and hosting your own deb packages and apt repo](https://earthly.dev/blog/creating-and-hosting-your-own-deb-packages-and-apt-repo/) by Alex Couture-Beil @ [Earthly](https://earthly.dev/).

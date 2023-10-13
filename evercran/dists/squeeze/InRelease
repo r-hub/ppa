@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: R-hub
+Label: R-hub
+Suite: squeeze
+Codename: squeeze
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 10:29:31 +0000
+MD5Sum:
+ fafee383cfdd6521ae3bce004f1bb2a4 575 squeeze-release.sh
+ 350cb3a99f2cbf2f25183ce9ccf16df2 1620 main/binary-i386/Packages.gz
+ 1d807a6940138c1bc3ca46496fc59051 8610 main/binary-i386/Packages
+SHA1:
+ fd04fa9c8d88073c56d13cdbb5e1e93835d1cc6e 575 squeeze-release.sh
+ c0dcdda40fd7d7cfeb1e57026aaf60345fef5a79 1620 main/binary-i386/Packages.gz
+ c2863685359b68dc5d38993d697315f892d964e6 8610 main/binary-i386/Packages
+SHA256:
+ e0b5da60103dc8e6afb589bbb0234ec5f97933281d7b6284454981076c628145 575 squeeze-release.sh
+ ccff3cab92613780747305f9cd2dbc8b831b68205a3b472187737877d1c166da 1620 main/binary-i386/Packages.gz
+ 7244a592492d0ccc6cba94081098b0bda2838f16761019f25b24de0f854ff482 8610 main/binary-i386/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmUpMx0XHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdx2+g/7B6ZPyZKaLDRG2TXXVvn3jgZR
+4h7ycpyV3H41d6JdlzCRExcMiaSbGC6vc30rytCGFIBrxR6OvHCkM3M//ZvaJ0Bz
+SNf//vD01LjlgwfaN5BQIEvpVJ7DunOUpqRBujJIacL3hjyPT8tjsc/vxqil/HXU
+qa6xqPWY/cajCh3KbPMCe0R0WUMy824zNpsC3ckLA9/2zA6GnJTZ10qiyuAsKu/n
+5hZfyzpNjbTOQjvt8qydaMHHdEfRzuJtZ/34sZ8rA0/EBUZuj7H1ngm0ojdXSVa9
+cYwEeSsla8L85bOPCADICXmDWxEfhN75G4Rkek0gthpMSyMzM6m/XO1gMzA2mW1Z
+w28SM5munupfsAwFWHdPzPjZv+8hjCUsLOh6EptAiuKILMZ/7dTh/VHQ53AEkeZv
+oBz+uKPvawSZmfanCVwd1nwSzooUbnI4lTLo3WX62txKYJGm3C21nWNJGg1EiI0P
+/AQXYlqwtlKyfglDU9Bz/6XCacuI7fOen0Osoonb7lqbvFoJlgINKJMZkGgy6et7
+KNoyFen4E0vLoDkE2A31IgAmcl3VYIOJAEI905H/NSdiMAWFMJT3hUcZJBU4rIMM
+iYoIlGRRjUEaoe4/wEHvugg1pVApyBKxvoxcJr+rpN64dFgqNV6qqt9KE1TerdN4
++Q5McMS40y5wXDbRuIY=
+=iU6W
+-----END PGP SIGNATURE-----

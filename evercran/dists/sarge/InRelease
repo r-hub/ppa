@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: R-hub
+Label: R-hub
+Suite: sarge
+Codename: sarge
+Version: 1.0.0
+Architectures: i386
+Components: main
+Description: Evercran R builds
+Date: Fri, 13 Oct 2023 08:47:18 +0000
+MD5Sum:
+ fb737e65c6b9b649218f934beec2f1ea 571 sarge-release.sh
+ bcb3d218bb6adb6a0e0c556dcb331779 8970 main/binary-i386/Packages.gz
+ 9c595a52199f26480c3ffcef220d5e61 41430 main/binary-i386/Packages
+SHA1:
+ dfcf3181c84b1ca0e5800233fac6501030ba9a94 571 sarge-release.sh
+ bc7ed34cebe3ed98531db51a61a6fc0187467952 8970 main/binary-i386/Packages.gz
+ 1d5b89214dbdd4f9a0d046ed8d84f4e26a8d59e1 41430 main/binary-i386/Packages
+SHA256:
+ a852075b00a7b25cf964741b054804505bc61a559021d0012a3c50dad61b2870 571 sarge-release.sh
+ e21b94300e4de473436f946d728ffc43b732df375755b7a9b4b81298e3adc4ec 8970 main/binary-i386/Packages.gz
+ 14b747f81fc6cce4e56be4e3b85591c871fbefcf438f7c4c22a4361249ff593c 41430 main/binary-i386/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEE30jQEUieWfXdWxNqAkR7rgythdwFAmUpMxsXHGNzYXJkaS5n
+YWJvckBnbWFpbC5jb20ACgkQAkR7rgythdw+bhAAvN5kp1/ZiTR0mmO6TJHGum3I
+LWGC0d/KSEgPdbT7kAen0jgAheMFCGsDDUhQsBVT4ZvxlqBy9Apm1NOewJjQyilD
+CCpH/ZoDCHgKpElOpkA9Np7a8HQ5ADemfGklFv99L3vXXzs1pbk8VRHHtK60F5LW
+cQnFRq3inJ/WUmFzPe84n4hHMKbUbHMm4huckRS0nJusjTuFJMbI9zua6MpzxY+s
+eKKTviprD4KqiF4eIFU+MpCm5HqSI6W3oAneCw8izkm327DrYp/UyCaz0nhxZs2B
+qNAtNrMQ+yvygkUFF18irKw4xIpxGEO3yx3Limc32KB1DQBfadZO6dbTM7EyQg03
+3fr5j52DqtNv4i0AScT03uTWMYaHeWFK860khPaAGcXvFk84G0TnYGHyPW571Mq2
+gf/Bw+jTMCF52QCpJnUFpvimZ2UBqlt7dBEJxcyrYoZWDN/ZrTe0xtZAXoBoGSPG
+dcwD10nQfkXTWJO+W7g3hV9m5CCQ78mNVMsly25oxoNM/zGcx/kcSbR2xqnQGmxN
+BmkZZnCbwTadUlm1ff3Zb+X8xS0iavk7zcVBtOpHy3+z2TCBwzewjYHp7RFwXbS9
+7wfvp3o3WQxua8RemtYJLAqTMbA2Y+iD8D1ulwpqsCtz/sneSt8FRNRABjyWhrRl
+RKTluGCLspZIrnY1OmU=
+=I/8I
+-----END PGP SIGNATURE-----
