@@ -69,7 +69,7 @@ See <https://github.com/r-hub/evercran> for more about evercran.
    dpkg-scanpackages --arch i386 pool/sarge   > dists/sarge/main/binary-i386/Packages
    dpkg-scanpackages --arch i386 pool/etch    > dists/etch/main/binary-i386/Packages
    dpkg-scanpackages --arch i386 pool/lenny   > dists/lenny/main/binary-i386/Packages
-   dpkg-scanpackages --arch i386 pool/squueze > dists/squeeze/main/binary-i386/Packages
+   dpkg-scanpackages --arch i386 pool/squeeze > dists/squeeze/main/binary-i386/Packages
    gzip -kf dists/sarge/main/binary-i386/Packages
    gzip -kf dists/etch/main/binary-i386/Packages
    gzip -kf dists/lenny/main/binary-i386/Packages

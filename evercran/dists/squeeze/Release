@@ -6,10 +6,16 @@ Version: 1.0.0
 Architectures: i386
 Components: main
 Description: Evercran R builds
-Date: Fri, 13 Oct 2023 09:52:12 +0000
+Date: Fri, 13 Oct 2023 10:29:31 +0000
 MD5Sum:
  fafee383cfdd6521ae3bce004f1bb2a4 575 squeeze-release.sh
+ 350cb3a99f2cbf2f25183ce9ccf16df2 1620 main/binary-i386/Packages.gz
+ 1d807a6940138c1bc3ca46496fc59051 8610 main/binary-i386/Packages
 SHA1:
  fd04fa9c8d88073c56d13cdbb5e1e93835d1cc6e 575 squeeze-release.sh
+ c0dcdda40fd7d7cfeb1e57026aaf60345fef5a79 1620 main/binary-i386/Packages.gz
+ c2863685359b68dc5d38993d697315f892d964e6 8610 main/binary-i386/Packages
 SHA256:
  e0b5da60103dc8e6afb589bbb0234ec5f97933281d7b6284454981076c628145 575 squeeze-release.sh
+ ccff3cab92613780747305f9cd2dbc8b831b68205a3b472187737877d1c166da 1620 main/binary-i386/Packages.gz
+ 7244a592492d0ccc6cba94081098b0bda2838f16761019f25b24de0f854ff482 8610 main/binary-i386/Packages
