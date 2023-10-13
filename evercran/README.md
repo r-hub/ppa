@@ -3,11 +3,40 @@
 
 ## Usage
 
+### Sarge
+
 ```sh
 echo 'deb http://ppa.r-pkg.org/evercran sarge main' \
     >> /etc/apt/sources.list
 apt-get update -y
 apt-get install -y r-1.0.0
+```
+
+### Etch
+
+```sh
+echo 'deb http://ppa.r-pkg.org/evercran etch main' \
+    >> /etc/apt/sources.list
+apt-get update -y
+apt-get install -y r-2.6.0
+```
+
+### Lenny
+
+```sh
+echo 'deb http://ppa.r-pkg.org/evercran lenny main' \
+    >> /etc/apt/sources.list
+apt-get update -y
+apt-get install -y r-2.9.0
+```
+
+### Squeeze
+
+```sh
+echo 'deb http://ppa.r-pkg.org/evercran squeeze main' \
+    >> /etc/apt/sources.list
+apt-get update -y
+apt-get install -y r-2.13.0
 ```
 
 See <https://github.com/r-hub/evercran> for more about evercran.
@@ -53,4 +82,9 @@ See <https://github.com/r-hub/evercran> for more about evercran.
    (cd dists/etch    && ./etch-release.sh    > Release)
    (cd dists/lenny   && ./lenny-release.sh   > Release)
    (cd dists/squeeze && ./squeeze-release.sh > Release)
+   ```
+
+5. Import private key for signing
+   ```
+   gpg --armor --import pgp-key.private
    ```
