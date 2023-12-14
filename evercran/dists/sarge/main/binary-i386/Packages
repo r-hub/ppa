@@ -275,10 +275,10 @@ Maintainer: csardi.gabor@gmail.com
 Installed-Size: 18212
 Depends: less, libsm6, libice6, libx11-6, libc6, libreadline5
 Filename: pool/sarge/r-evercran-debian-3.1-0.60_1-1_i386.deb
-Size: 3090140
-MD5sum: d7e95708a939bb9c932e71e78c481560
-SHA1: b04bfb06aa2aa9424a33859daa63b69c017ef38a
-SHA256: bd9c03614876eba725cbcbadb78d2fa65b863f49ac498d955ad0eca44dcedb2f
+Size: 3091438
+MD5sum: 2db77047a3dd492bf439845d63b39a01
+SHA1: 2d00fa4f0fa8a57da9aabc114fab2947384bcc1a
+SHA256: f1d0936b627e9d78927b20fb93d7fe8bf0a220096ca9156f7b3724a71776f2ad
 Section: checkinstall
 Priority: extra
 Description: GNU R statistical computation and graphics system
