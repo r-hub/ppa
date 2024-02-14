@@ -6,6 +6,8 @@
 * `protobuf-clang`: protobuf compiled with clang, linking against
   libc++. It needs the libc++-16 libs (see `Dockerfile`).
   [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/protobuf/Dockerfile)
+* `protobuf-clang17`: similar to the previous one, with clang 17.
+* `protobuf-clang18`: similar to the previous ones, with clang 18.
 * `skopeo`: a newer version, to be able to push packages to GHCR.
   [Dockerfile for Ubuntu 22.04](https://github.com/r-hub/containers/blob/main/dependencies/skopeo/Dockerfile)
 
@@ -34,7 +36,9 @@ apt-get install -y ...
 2. Create `Packages*` files:
    ```
    dpkg-scanpackages --arch amd64 pool/ > dists/jammy/main/binary-amd64/Packages
+   dpkg-scanpackages --arch arm64 pool/ > dists/jammy/main/binary-arm64/Packages
    gzip -kf dists/jammy/main/binary-amd64/Packages
+   gzip -kf dists/jammy/main/binary-arm64/Packages
    ```
 3. Generate `Release` file
    ```
@@ -56,7 +60,7 @@ apt-get install -y ...
    ```
 6. Test
    ```
-   echo "deb [arch=amd64] http://127.0.0.1:8000/ jammy main" \
+   echo "deb http://127.0.0.1:8000/ jammy main" \
       > /etc/apt/sources.list.d/rhub.list
    apt-get install -y python3 curl
    python3 -m http.server

@@ -1,3 +1,51 @@
+Package: protobuf-clang
+Version: 3.20.3-1
+Architecture: arm64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 108264
+Depends: libc++1-16,libc++abi1-16,libunwind-16,libc6,libgcc-s1
+Provides: protobuf-clang
+Filename: pool/main/protobuf-clang_3.20.3-1_arm64.deb
+Size: 17614694
+MD5sum: 7374ab786feb0c08a84b89f4d579637c
+SHA1: 07c9ce26f6599d0a27c592b289cf1918a82fefbc
+SHA256: feaf5ab88841a4b3f733238997b8ba229144d912506da70951a56f64c69e5d73
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: protobuf-clang17
+Version: 3.20.3-1
+Architecture: arm64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 110304
+Depends: libc++1-17,libc++abi1-17,libunwind-17,libc6,libgcc-s1
+Provides: protobuf-clang17
+Filename: pool/main/protobuf-clang17_3.20.3-1_arm64.deb
+Size: 17993110
+MD5sum: 67c08f994bc62ecfff3b66f1d6b09313
+SHA1: a3234e135d29221161f146a3237efaf2e96fb500
+SHA256: 747d392cec2887d22633578a8f7e435a368198a5db57eef6c9940d348017f314
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: protobuf-clang18
+Version: 3.20.3-1
+Architecture: arm64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 110680
+Depends: libc++1-18,libc++abi1-18,libunwind-18,libc6,libgcc-s1
+Provides: protobuf-clang18
+Filename: pool/main/protobuf-clang18_3.20.3-1_arm64.deb
+Size: 18083174
+MD5sum: 60717aa94d13869eea31f3fa1cdd92f7
+SHA1: b335b5e1aca20119a64497c7bfbc8b9422302fd7
+SHA256: a1e8610de9dba81b94de3272bf8744f5e3a7b18f96e2ae9fca3caddd12e169df
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: skopeo
 Version: 1.11.1-1
 Architecture: arm64

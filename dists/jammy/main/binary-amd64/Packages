@@ -30,6 +30,22 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: protobuf-clang18
+Version: 3.20.3-1
+Architecture: amd64
+Maintainer: csardi.gabor@gmail.com
+Installed-Size: 109404
+Depends: libc++1-18,libc++abi1-18,libunwind-18,libc6,libgcc-s1
+Provides: protobuf-clang18
+Filename: pool/main/protobuf-clang18_3.20.3-1_amd64.deb
+Size: 17939354
+MD5sum: da3b4c92d853e6964c777f3d98e4e2e7
+SHA1: e0de274b0e4cb71e8b409531ae8994173c87825d
+SHA256: 25d7f896ce8ded34021587ae0d7f95c3b2b53776aca146461f366bebc081e8b6
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: skopeo
 Version: 1.11.1-1
 Architecture: amd64
